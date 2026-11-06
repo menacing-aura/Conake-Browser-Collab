@@ -689,7 +689,7 @@ Small, reviewable changes keep Conake moving without detonating three unrelated 
 
 <br/>
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-CONake_BROWSER-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menacing-aura/Conake-Browser/releases)
+[![Download](https://img.shields.io/badge/DOWNLOAD-CONAKE_BROWSER-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menacing-aura/Conake-Browser/releases)
 [![Contribute](https://img.shields.io/badge/CONTRIBUTE-ENTER_THE_FORGE-f43f5e?style=for-the-badge&logo=git&logoColor=white)](CONTRIBUTING.md)
 
 <br/><br/>
