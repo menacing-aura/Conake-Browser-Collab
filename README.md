@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/conake-collab-banner.svg" alt="Conake Browser Collaboration Portal" />
+<img width="100%" src="assets/conake-collab-banner.svg" alt="Conake™ Browser Collaboration Portal" />
 
 <br/>
 
@@ -40,7 +40,7 @@
 
 > [!IMPORTANT]
 > ### 🔐 PUBLIC PORTAL / PRIVATE CORE
-> This repository is the **public collaboration hub** for Conake Browser.  
+> This repository is the **public collaboration hub** for Conake™ Browser.  
 > The main application source is currently private. Contributors receive only the access needed for a scoped task.
 
 ---
@@ -125,7 +125,7 @@ Conake is being built to explore what happens when the browser itself gets a str
 - encrypted local profiles
 - **.conake** names
 - aliases such as **studio.conake**
-- Conake Account
+- Conake™ Account
 - extension-store work
 - Snake Run
 - custom setup flow
@@ -154,7 +154,7 @@ WEB COMPATIBILITY
    └──────────► EXPERIMENTAL AI
                     │
                     ▼
-              CONAKE BROWSER
+              CONAKE™ BROWSER
 ```
 
 > **The goal is not to hide Chromium. The goal is to build something distinct on top of it.**
@@ -217,7 +217,7 @@ _The everyday browsing layer._
 **Wallpapers**  
 **New Tab UI**  
 **Custom pages**  
-**Conake identity**  
+**Conake™ identity**  
 **Setup experience**
 
 _Make the browser feel yours._
@@ -247,7 +247,7 @@ _More control, less mystery._
 ## 🌐 NETWORK
 
 **.conake names**  
-**Conake Account**  
+**Conake™ Account**  
 **Native aliases**  
 **Custom services**
 
@@ -259,7 +259,7 @@ _A browser-native namespace._
 ## 🧩 EXTENSIONS
 
 **Chrome compatibility**  
-**Conake Store**  
+**Conake™ Store**  
 **Regression checks**  
 **Compatibility fixes**
 
@@ -343,7 +343,7 @@ Tab switching, memory visibility, UI responsiveness and lower-overhead workflows
 
 ```text
                     ┌────────────────────┐
-                    │  CONAKE BROWSER    │
+                    │  CONAKE™ BROWSER    │
                     │   NEXT EVOLUTION   │
                     └─────────┬──────────┘
                               │
@@ -683,9 +683,9 @@ Small, reviewable changes keep Conake moving without detonating three unrelated 
 
 <br/>
 
-## 🐍 **CONAKE BROWSER**
+## 🐍 **CONAKE™ BROWSER**
 
-**`CHROMIUM CORE`　×　`CONAKE SOUL`**
+**`CHROMIUM CORE`　×　`CONAKE™ SOUL`**
 
 <br/>
 
