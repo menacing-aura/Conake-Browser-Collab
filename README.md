@@ -584,7 +584,7 @@ To join, open an **Issue** and include:
 [![Quest Board](https://img.shields.io/badge/QUEST_BOARD-OPEN_AN_ISSUE-f43f5e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/menacing-aura/Conake-Browser-Collab/issues)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BMcST6NaZS)
 [![Email](https://img.shields.io/badge/EMAIL-COLLAB_CONTACT-e11d48?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godscripters@gmail.com)
-[![Studios](https://img.shields.io/badge/CONAKE-STUDIOS-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://conake-studios.web-one1aura.workers.dev/)
+[![Studios](https://img.shields.io/badge/CONAKE-STUDIOS-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://conake.com/)
 
 </div>
 
